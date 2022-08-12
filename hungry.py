@@ -3,6 +3,7 @@ if hungry=="yes":
     print("Have somthing to eat.")
     print("Have Itallian.")
     print("Have Chineeze.")
+    print("Have Thai.")
 elif hungry=="no":
     print("Focus on your work.")
 else:
