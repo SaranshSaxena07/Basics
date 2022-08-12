@@ -1,2 +1,2 @@
 # Basics
-Basics of repo
+Basics repo for git commands demonstration.
