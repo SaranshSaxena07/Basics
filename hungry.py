@@ -5,6 +5,9 @@ if hungry=="yes":
     print("Have Chineeze.")
     print("Have Thai.")
 elif hungry=="no":
-    print("Focus on your work.")
+    thirsty = input("Are you thirsty? (yes/no) \n")
+    if thirsty == "yes":
+        print("Have water.")
+        print("Have soda.")
 else:
     print("Answer in yes or no only.")
